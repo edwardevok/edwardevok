@@ -2,10 +2,10 @@
 #### Front End Developer
 I´m an argentinian full time student eager to delve deeply into the world of programming.
 
-Skills: HTML / CSS / JS / JAVA
+Skills: HTML / CSS / JS / PHP / GIT / GITHUB / SQL
 
 - 🔭 I’m currently working on my degree 
-- 🌱 I’m currently learning Javascript, Java, SQL
+- 🌱 I’m currently learning Javascript, SQL, PHP
 - 📫 How to reach me: edulopez4815@gmail.com 
 - ⚡ Fun fact: Big fan of Lara Croft 
 
