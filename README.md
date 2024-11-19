@@ -4,8 +4,8 @@ I´m an argentinian full time student eager to delve deeply into the world of pr
 
 Skills: HTML / CSS / JS / PHP / GIT / GITHUB / SQL
 
-- 🔭 I’m currently working on my degree 
-- 🌱 I’m currently learning Javascript, SQL, PHP
+- 🔭 I’m currently working on my Bachelor of Computer Systems
+- 🌱 I’m currently learning C
 - 📫 How to reach me: edulopez4815@gmail.com 
 - ⚡ Fun fact: Big fan of Lara Croft 
 
