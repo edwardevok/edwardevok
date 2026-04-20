@@ -2,7 +2,7 @@
 #### Front End Developer
 I´m an argentinian full time student eager to delve deeply into the world of programming.
 
-Skills: HTML / CSS / JS / PHP / GIT / GITHUB / SQL
+Skills: HTML / CSS / JS / PHP / GIT / GITHUB / SQL / JAVA 
 
 - 🔭 I’m currently working on my Bachelor of Computer Systems
 - 🌱 I’m currently learning Java and SQL
